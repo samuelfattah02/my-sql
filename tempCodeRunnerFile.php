@@ -1,0 +1,2 @@
+<?php
+MYSQLI_ASSOC
